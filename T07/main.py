@@ -1,0 +1,1 @@
+print("eres una hij d pt q nnk dv cncr prq ahr v l ntl y nssbl q rs")
